@@ -1,0 +1,8 @@
+{
+  "name": "parking",
+  "description": "I'm tired of thinking about it.",
+  "version": "1.0.0",
+  "engines": {
+    "yarn": "1.x"
+  }
+}
