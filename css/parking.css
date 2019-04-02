@@ -1,0 +1,14 @@
+.imgParking {
+    width: 300px;
+    height: 300px;
+}
+
+.imgParking.even {
+    background: url('../img/even.jpeg');
+    background-size: cover;
+}
+
+.imgParking.odd {
+    background: url('../img/odd.jpeg');
+    background-size: cover;
+}
